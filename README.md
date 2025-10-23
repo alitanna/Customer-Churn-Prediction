@@ -11,5 +11,5 @@ Model training, evaluation (accuracy, precision, recall, ROC-AUC)
 
 Saving the best model for future predictions
 
-⚙️ Tools used
+Tools used
 Python, Pandas, Scikit-learn, XGBoost, Matplotlib, Seaborn, Imbalanced-learn
